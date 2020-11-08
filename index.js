@@ -1,2 +1,3 @@
-Const Discord = require ('Discord.js')
-Const Client = require = New Discord.Client()
+'use strict';
+const Bot = require('./src/index.js');
+module.exports = Bot.index;
