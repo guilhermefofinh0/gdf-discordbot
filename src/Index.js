@@ -19,8 +19,6 @@ class Bot.index {
 		}
 		this.Token = options.Token;
 		this.prefix = options.prefix || '?';
-		this.queue = new Map();
-		this.setup_();
 	}
 	/**
 	 * Starts bot.
