@@ -76,4 +76,4 @@ class MusicBot {
 /**
  * Module exports.
  */
-module.exports = Bot.Index;
+module.exports = Bot.index;
