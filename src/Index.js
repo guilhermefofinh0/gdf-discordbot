@@ -7,7 +7,7 @@ const path = require('path');
 const Discord = require('discord.js');
 const client = new Discord.Client();
 /** Core class of the module. */
-class MusicBot {
+class Bot.index {
 	/**
 	 * DiscordToken attributes are mandatory.
 	 *
